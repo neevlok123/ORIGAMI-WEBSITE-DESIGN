@@ -1,0 +1,115 @@
+
+
+
+
+button{
+  background: blue;
+  background-color: rgb(2, 196, 131);
+  border-radius: 2cm;
+  border-width: 200m;
+  border: double rgb(38, 0, 255);
+}
+
+.head{
+      
+    background-color:rgb(46, 168, 164);
+    border:solid;
+    cursor: crosshair;
+    border-radius: 5vmax;
+}
+  
+.note{
+       background-color: red;
+       border-radius: 8cm;
+       border-width: 200mm;
+       border: double rgb(38, 0, 255);
+       font-size: large;
+}
+ 
+  .grid {
+    background: rgb(235, 5, 5);
+    background-color: rgb(7, 241, 229);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    cursor: crosshair;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    cursor: crosshair;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    cursor: crosshair;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    cursor: crosshair;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    cursor: crosshair;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    cursor: crosshairl;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    
+  }
+  .nnn{
+
+    display: flex;
+    justify-content: end;
+    
+  }
+  .mmm{
+    text-emphasis-color: #F0F8FF;
+    background: rgb(7, 241, 229);
+  }
